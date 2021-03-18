@@ -15,7 +15,7 @@ From Kleinberg and Tardos's *Algorithm Design* on page 190 in exercise 5 at the 
 1) Clone this repository (https://github.com/lorenjohnson/CSC3430-Cell-Coverage-Loren)
 2) Assuming you have Python 3 installed and in your path, run `python optimal_cell_tower_locations.py` from the root directory of the cloned repository
 
-> 🦉 *If you'd like to try with your own numbers you can modify the `SAMPLE_HOUSES` and `DEFAULT_TOWER_RANGE` values at the top of that file.*
+> 🦉  **If you'd like to try with your own numbers you can modify the `SAMPLE_HOUSES` and `DEFAULT_TOWER_RANGE` values at the top of `python optimal_cell_tower_locations.py`**
 
 ## General Reflections on this problem and my solution
 
