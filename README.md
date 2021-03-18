@@ -10,12 +10,13 @@ Give an efficient algorithm that achieves this goal, using as few base stations 
 ```
 
 ## Requirements to run the code
+
 * Python 3.x
 
 ## Instructions for running the code
 
 1) Clone this repository (https://github.com/lorenjohnson/CSC3430-Cell-Coverage-Loren)
-2) Run `python cell-coverage.py` from the root directory of the cloned repository
+2) Assuming you have Python 3 installed and in your path, run `python cell-coverage.py` from the root directory of the cloned repository
 
 ## General Reflections on this problem and my solution
 
